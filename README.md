@@ -1,5 +1,5 @@
-#AI-Based Snake Game
-##Description
+# AI-Based Snake Game
+## Description
 The GitHub repository hosts a compelling project showcasing an intelligent agent designed to master the classic Snake game through reinforcement learning techniques. 
 This project is developed using Python and PyTorch.
 The agent navigates the Snake game environment, progressively learning optimal strategies to achieve higher scores.
